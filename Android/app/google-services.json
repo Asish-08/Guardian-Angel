@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "313710529966",
+    "project_id": "gaurdianangle",
+    "storage_bucket": "gaurdianangle.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313710529966:android:94d303fadc67b7ff2b8c3f",
+        "android_client_info": {
+          "package_name": "com.example.sample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUsU2I-oiosgJ-Znf0y12smjPGPCmI6Lg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
